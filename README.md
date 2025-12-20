@@ -30,3 +30,4 @@ AWS_SECRET_ACCESS_KEY
 AWS_ACCOUNT_ID (12-digit number)
 ECR_REPO_NAME (e.g., deplyapp or fastapi-hello)
 Optional: add AWS_REGION secret and change the workflow to use it if you don't use us-east-1.
+
